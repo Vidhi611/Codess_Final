@@ -1,8 +1,11 @@
 # Microsoft Codess Team Bits-Please
 
-Caption Generator app
+Caption Generator
 
-Requirements
-Android OS :API Level 16 or higher
+# Requirements
 
+Android OS: API 16 or above
 
+# Run the sample
+
+In Android Studio, select menu "Run", and "Run app" to launch this sample app.
